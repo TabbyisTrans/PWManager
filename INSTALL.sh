@@ -11,4 +11,4 @@ cd pwmanager
 export PATH=$PATH:`pwd`
 
 # Run the script
-java App.java
+java src/PWManager.java
