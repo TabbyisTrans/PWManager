@@ -10,4 +10,4 @@ This program is not for use in production, as passwords are stored unencrypted o
 
 run the following command to clone [Install.sh](./INSTALL.sh)
 
-    curl -s https://raw.githubusercontent.com/Tabbyistrans/PWManager/main/INSTALL.sh | bash
+    curl -s https://raw.githubusercontent.com/TabbyisTrans/PWManager/main/INSTALL.sh | bash
